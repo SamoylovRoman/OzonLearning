@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">homework2</string>
+    <string name="text_views">просмотры: %d</string>
+    <string name="text_add">добавить</string>
+    <string name="text_enter_values">Заполните параметры нового продукта</string>
+    <string name="text_image_link">Ссылка на изображение</string>
+    <string name="text_product_name">Название продукта</string>
+    <string name="text_price">Стоимость продукта</string>
+    <string name="text_rating">Рейтинг продукта</string>
+    <string name="text_description">Описание продукта</string>
+    <string name="text_to_fill">заполнить автоматически</string>
+    <string name="text_to_clear">сбросить все значения</string>
+    <string name="text_to_save">сохранить продукт</string>
+    <string name="text_no_all_values">Не заполнены необходимые поля!</string>
+</resources>
